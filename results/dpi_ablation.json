@@ -1,0 +1,17 @@
+[
+  {
+    "dpi": 100,
+    "status": "not_run",
+    "reason": "Vision inference needed to compare refusal or numeric accuracy"
+  },
+  {
+    "dpi": 150,
+    "status": "not_run",
+    "reason": "Vision inference needed to compare refusal or numeric accuracy"
+  },
+  {
+    "dpi": 200,
+    "status": "not_run",
+    "reason": "Vision inference needed to compare refusal or numeric accuracy"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "status": "not_run",
+    "reason": "Two vision-prompt variants require the model",
+    "pages": [
+      4,
+      5,
+      7,
+      10,
+      12
+    ]
+  }
+]

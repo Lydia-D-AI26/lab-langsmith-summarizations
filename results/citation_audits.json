@@ -1,0 +1,151 @@
+[
+  {
+    "question": "What are the EV / NTM and NTM rev growth for MongoDB, Cloudflare, and Datadog?",
+    "answer": {
+      "answer": "NOT RUN: local retrieval only; no multimodal model answer generated.",
+      "evidence_pages": [],
+      "confidence": "low",
+      "limitations": [
+        "Text proxies do not read image-only tables. Enable openai mode for vision generation."
+      ],
+      "claims": [],
+      "numeric_rows": []
+    },
+    "sent_pages": [
+      4,
+      8,
+      9,
+      10,
+      11
+    ],
+    "audit": {
+      "invalid_pages": [],
+      "provenance_valid": true,
+      "cited_anything": false,
+      "claim_citations_consistent": true,
+      "all_claims_cited": true,
+      "entailment": "not_evaluated"
+    },
+    "manual_entailment": "pending — inspect cited pages against each claim",
+    "mode": "local"
+  },
+  {
+    "question": "What are the five AI monetization layers described in this issue?",
+    "answer": {
+      "answer": "NOT RUN: local retrieval only; no multimodal model answer generated.",
+      "evidence_pages": [],
+      "confidence": "low",
+      "limitations": [
+        "Text proxies do not read image-only tables. Enable openai mode for vision generation."
+      ],
+      "claims": [],
+      "numeric_rows": []
+    },
+    "sent_pages": [
+      1,
+      2,
+      3,
+      13
+    ],
+    "audit": {
+      "invalid_pages": [],
+      "provenance_valid": true,
+      "cited_anything": false,
+      "claim_citations_consistent": true,
+      "all_claims_cited": true,
+      "entailment": "not_evaluated"
+    },
+    "manual_entailment": "pending — inspect cited pages against each claim",
+    "mode": "local"
+  },
+  {
+    "question": "What does Datadog say about customer optimizations?",
+    "answer": {
+      "answer": "NOT RUN: local retrieval only; no multimodal model answer generated.",
+      "evidence_pages": [],
+      "confidence": "low",
+      "limitations": [
+        "Text proxies do not read image-only tables. Enable openai mode for vision generation."
+      ],
+      "claims": [],
+      "numeric_rows": []
+    },
+    "sent_pages": [
+      1,
+      2,
+      3,
+      4,
+      12
+    ],
+    "audit": {
+      "invalid_pages": [],
+      "provenance_valid": true,
+      "cited_anything": false,
+      "claim_citations_consistent": true,
+      "all_claims_cited": true,
+      "entailment": "not_evaluated"
+    },
+    "manual_entailment": "pending — inspect cited pages against each claim",
+    "mode": "local"
+  },
+  {
+    "question": "What are the high, mid and low growth median multiples?",
+    "answer": {
+      "answer": "NOT RUN: local retrieval only; no multimodal model answer generated.",
+      "evidence_pages": [],
+      "confidence": "low",
+      "limitations": [
+        "Text proxies do not read image-only tables. Enable openai mode for vision generation."
+      ],
+      "claims": [],
+      "numeric_rows": []
+    },
+    "sent_pages": [
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "audit": {
+      "invalid_pages": [],
+      "provenance_valid": true,
+      "cited_anything": false,
+      "claim_citations_consistent": true,
+      "all_claims_cited": true,
+      "entailment": "not_evaluated"
+    },
+    "manual_entailment": "pending — inspect cited pages against each claim",
+    "mode": "local"
+  },
+  {
+    "question": "What are the median gross margin and net retention?",
+    "answer": {
+      "answer": "NOT RUN: local retrieval only; no multimodal model answer generated.",
+      "evidence_pages": [],
+      "confidence": "low",
+      "limitations": [
+        "Text proxies do not read image-only tables. Enable openai mode for vision generation."
+      ],
+      "claims": [],
+      "numeric_rows": []
+    },
+    "sent_pages": [
+      2,
+      6,
+      7,
+      10,
+      11
+    ],
+    "audit": {
+      "invalid_pages": [],
+      "provenance_valid": true,
+      "cited_anything": false,
+      "claim_citations_consistent": true,
+      "all_claims_cited": true,
+      "entailment": "not_evaluated"
+    },
+    "manual_entailment": "pending — inspect cited pages against each claim",
+    "mode": "local"
+  }
+]

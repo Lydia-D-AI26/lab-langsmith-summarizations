@@ -1,0 +1,84 @@
+[
+  {
+    "k": 3,
+    "text_results": 2,
+    "image_results": 1,
+    "unique_pages": [
+      8,
+      10
+    ],
+    "sent_pages": [
+      8,
+      10
+    ],
+    "answer_changed_exactly": null,
+    "answer": "NOT RUN: local retrieval only; no multimodal model answer generated.",
+    "status": "retrieval_only"
+  },
+  {
+    "k": 6,
+    "text_results": 3,
+    "image_results": 3,
+    "unique_pages": [
+      8,
+      9,
+      10
+    ],
+    "sent_pages": [
+      8,
+      9,
+      10
+    ],
+    "answer_changed_exactly": null,
+    "answer": "NOT RUN: local retrieval only; no multimodal model answer generated.",
+    "status": "retrieval_only"
+  },
+  {
+    "k": 10,
+    "text_results": 5,
+    "image_results": 5,
+    "unique_pages": [
+      4,
+      8,
+      9,
+      10,
+      11
+    ],
+    "sent_pages": [
+      4,
+      8,
+      9,
+      10,
+      11
+    ],
+    "answer_changed_exactly": null,
+    "answer": "NOT RUN: local retrieval only; no multimodal model answer generated.",
+    "status": "retrieval_only"
+  },
+  {
+    "k": 15,
+    "text_results": 8,
+    "image_results": 7,
+    "unique_pages": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "sent_pages": [
+      4,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "answer_changed_exactly": null,
+    "answer": "NOT RUN: local retrieval only; no multimodal model answer generated.",
+    "status": "retrieval_only"
+  }
+]
